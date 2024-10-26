@@ -48,7 +48,8 @@ setupToggle("jobDescription2", "toggleButton2");
 setupToggle("jobDescription3", "toggleButton3");
 setupToggle("jobDescription4", "toggleButton4");
 setupToggle("jobDescription5", "toggleButton5");
-setupToggle("jobDescription6", "toggleButton6");
+setupToggle("jobDescription6", "toggleButton6"); //
+setupToggle("jobDescription7", "toggleButton7"); //SMI
 // Tambahkan setupToggle untuk elemen lainnya jika ada
 
 // Fungsi untuk mengubah bahasa

@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
             cv:"Download CV",
             jabatan1: "Administration Staff",
             masa1: "June 2020 - April 2022",
+            jabatan5: "Internship Lecture",
+            masa5: "October 2021 - October 2021",
             jabatan2: "Waiters & Cook",
             masa2: "July 2019 - October 2019",
             masa3: "June 2018 - March 2019",

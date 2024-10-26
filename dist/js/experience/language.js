@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
             exp1: "Experience Work",
             
             // Ipm
-            pt: "PT. Imam Putra Mandiri - Sakina Fried Chicken - Jhon Chicken and Burger - Banten Province Marine and Fisheries Service",
-            alamat:"Bojonegara, Serang Regency, Banten,",
+            pt: "PT. Imam Putra Mandiri - PT. Samudra Marine Indoesia - Sakina Fried Chicken - Jhon Chicken and Burger - Banten Province Marine and Fisheries Service",
+            alamat:"Bojonegara, Serang Regency, Banten",
             duration: "Jun 2020 - Apr 2022 · 1 year 11 months",
             position1: "Administration Staff",
             duration1: "Jun 2020 - Apr 2022 · 1 year 4 months",
@@ -63,6 +63,9 @@ document.addEventListener("DOMContentLoaded", function () {
             position3: "Industrial Internship",
             jp21: "Performed data copying to streamline administration.",
             jp22: "Sorted documents according to priority to facilitate easier monitoring.",
+
+            duration7: "Oct 2021 - Oct 2021 · 1 months",
+            position4: "Internship Lecture",
             
             lokasi:"Location",
             kota:"Serang City, Banten",
